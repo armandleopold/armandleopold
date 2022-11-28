@@ -27,10 +27,6 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 #### Méthodes / Frameworks
 <img height="32" width="32" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/>&nbsp;&nbsp; <img height="32" width="" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
 
-| Quelques statistiques | | |
-| :---: |:---:| :---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=armandleopold&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=armandleopold&show_icons=true&theme=radical&count_private=true) |
-
 <details>
     <summary>
         CV détaillé

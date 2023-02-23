@@ -50,7 +50,7 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 
 <a href="https://www.w3.org/html/"><img height="32" width="auto" src="./assets/images/html-css.webp" alt ="HTML CSS" title="HTML CSS"/></a>
 <a href="https://www.android.com/"><img height="32" width="auto" src="./assets/images/android.png" alt ="Android" title="Android"/></a>
-<a href="https://fr.wikipedia.org/wiki/C_(langage)"><img height="32" width="auto" src="./assets/images/c.png" alt ="C" title="C"/></a>
+<a href="https://fr.wikipedia.org/wiki/C_(langage)"><img height="32" width="auto" src="./assets/images/C.png" alt ="C" title="C"/></a>
 <a href="https://www.php.net/"><img height="32" width="auto" src="./assets/images/php.png" alt ="Php" title="Php"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img height="32" width="auto" src="./assets/images/sql.png" alt ="SQL" title="SQL"/></a>
 <a href="https://www.python.org/"><img height="32" width="auto" src="./assets/images/python.png" alt ="Python" title="Python"/></a>

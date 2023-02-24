@@ -78,6 +78,18 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 />
 <img src="https://github-readme-stats.vercel.app/api?username=armandleopold&show_icons=true" />
 </picture>
+<!--   
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=armandleopold&theme=dark&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=armandleopold&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandleopold&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" />
+  </picture> -->
 </a>
     
 <details>

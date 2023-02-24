@@ -66,6 +66,19 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 <a href="https://about.gitlab.com/topics/devops/"><img height="32" width="auto" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/></a>
 <a href="https://www.scrum.org/resources/what-is-scrum"><img height="32" width="auto" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/></a>
 
+
+<picture>
+    <source
+      srcset="https://armandleopold-github-readme-stats.vercel.app/api/top-langs/?username=armandleopold&theme=dark&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source
+      srcset="https://armandleopold-github-readme-stats.vercel.app/api/top-langs/?username=armandleopold&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img src="https://armandleopold-github-readme-stats.vercel.app/api/top-langs/?username=armandleopold&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles&disable_animations=true" />
+</picture>
+  
 <details>
     <summary>
         CV détaillé

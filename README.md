@@ -8,14 +8,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/armandleopold/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:armand.leopold@outlook.com)
 
-Actuellement je suis Responsable Data Factory à l'Institut Curie.
-
-Je travaille depuis plusieurs années sur la mise en place d'un cadre de développement en utilisant les outils les plus approriés aux besoin, j'assure une veille technologique et intervient en support auprès de celles-ci pour les accompagner au mieux dans l'adoption de ces technologies.
-
-Cet accompagnement se traduit, notamment, par la création et la promotion de Frameworks et librairies internes, d'accompagnement du changement au travers d'atelier et de présentations techniques ou haut niveau.
-
-Je maintiens et fait évoluer la chaîne CI / CD basée sur Gitlab CI.
-En supplément de ces pipelines j'ai urbanisé notre plateforme Data sur Kubernetes. Cela me permet de faciliter mon autre rôle qui est de faciliter l'adoption des principes DevOps au sein de ma société.
+Actuellement je suis Fondateur d'une Start-up spécialisé dans la Donnée de Confiance.
 
 Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 

@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/armandleopold/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:armand.leopold@outlook.com)
 
-Actuellement je suis Fondateur d'une Start-up spécialisé dans la Donnée de Confiance.
+Actuellement je suis Fondateur d'une Start-up spécialisé dans l'assurance qualité des données.
 
 Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 

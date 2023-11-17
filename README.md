@@ -16,6 +16,7 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 
 | Domaines | Technologies |
 | -------- | ------------ |
+| Web | HTML, CSS, PHP, SQL, FastAPI, React, NextJS |
 | Data Science | Python, R, SAS, Scikit-Learn, Pandas, Jupyter, Spark |
 | Data Engineering | Spark, Airflow, Talend, Kafka, Hadoop, Hive, HDFS, HBase, Cassandra, Elasticsearch, Redis, Janusgraph, Geoserver, Kibana, Jupyter, Docker, Kubernetes, Helm, Terraform, Vault, ArgoCD |
 | DevSecOps | Git, Github, Gitlab, Docker, Kubernetes, Helm, Terraform, Vault, ArgoCD, Airflow |
@@ -27,19 +28,35 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 | Langages | HTML, CSS, PHP, C, Python, R, Scala, Java, React, NextJS |
 | Frameworks | DevOps, Scrum |
 
-#### Data Science
+#### Web
+
+<a href="https://www.figma.com/"><img height="32" width="auto" src="./assets/images/figma.svg" alt ="Figma" title="Figma"/></a>
+<a href="https://www.webflow.com/"><img height="32" width="auto" src="./assets/images/webflow.png" alt ="Webflow" title="Webflow"/></a>
+<a href="https://www.notion.com/"><img height="32" width="auto" src="./assets/images/notion.png" alt ="Notion" title="Notion"/></a>
+<a href="https://react.dev/"><img height="32" width="auto" src="./assets/images/react.png" alt ="React" title="React"/></a>
+<a href="https://nextjs.org/"><img height="32" width="auto" src="./assets/images/nextjs.png" alt ="NextJS" title="NextJS"/></a>
+<a href="https://fastapi.tiangolo.com/"><img height="32" width="auto" src="./assets/images/fastapi.png" alt ="NextJS" title="NextJS"/></a>
+
+#### Data Science/Engineering/Analysis
 
 <a href="https://jupyter.org/"><img height="32" width="auto" src="./assets/images/jupyterlab.webp" alt ="Jupyterlab" title="Jupyterlab"/></a>
 <a href="https://scikit-learn.org/"><img height="32" width="auto" src="./assets/images/sklearn.png" alt ="Scikit Learn" title="Scikit Learn"/></a>
-
-#### Data Engineering
-
 <a href="https://spark.apache.org/"><img height="32" width="auto" src="./assets/images/spark.png" alt ="Spark" title="Spark"/></a>
 <a href="https://pandas.pydata.org/"><img height="32" width="auto" src="./assets/images/pandas.png" alt ="Pandas" title="Pandas"/></a>
-
-#### Data Analysis
-
 <a href="https://www.sas.com"><img height="32" width="auto" src="./assets/images/sas.png" alt ="SAS" title="SAS"/></a>
+<a href="https://airflow.apache.org/"><img height="32" width="auto" src="./assets/images/airflow.png" alt ="Airflow" title="Airflow"/></a>
+<a href="https://www.elastic.co/fr/kibana/"><img height="32" width="auto" src="./assets/images/kibana.png" alt ="Kibana" title="Kibana"/></a>
+<a href="https://superset.apache.org/"><img height="32" width="auto" src="./assets/images/superset.png" alt ="Superset" title="Superset"/></a>
+
+#### BDD
+
+<a href="https://www.mysql.com/"><img height="32" width="auto" src="./assets/images/mysql.png" alt ="MySQL" title="MySQL"/></a>
+<a href="https://postgresql.org/"><img height="32" width="auto" src="./assets/images/postgresql.png" alt ="PostgreSQL" title="PostgreSQL"/></a>
+<a href="https://www.elastic.co"><img height="32" width="auto" src="./assets/images/elasticsearch.png" alt ="Elasticsearch" title="Elasticsearch"/></a>
+<a href="https://redis.com/"><img height="32" width="auto" src="./assets/images/redis.svg" alt ="Redis" title="Redis"/></a>
+<a href="https://cassandra.apache.org"><img height="32" width="auto" src="./assets/images/cassandra.png" alt ="Cassandra" title="Cassandra"/></a>
+<a href="https://janusgraph.org/"><img height="32" width="auto" src="./assets/images/janusgraph.png" alt ="Janusgraph" title="Janusgraph"/></a>
+<a href="https://geoserver.org/"><img height="32" width="auto" src="./assets/images/geoserver.png" alt ="Geoserver" title="Geoserver"/></a>
 
 #### DevSecOps
 
@@ -51,33 +68,8 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 <a href="https://kubernetes.io/"><img height="32" width="auto" src="./assets/images/kubernetes.png" alt ="Kubernetes" title="Kubernetes"/></a>
 <a href="https://www.terraform.io/"><img height="32" width="auto" src="./assets/images/terraform.png" alt ="Terraform" title="Terraform"/></a>
 <a href="https://www.vaultproject.io/"><img height="32" width="auto" src="./assets/images/vault.png" alt ="Vault" title="Vault"/></a>
-<a href="https://airflow.apache.org/"><img height="32" width="auto" src="./assets/images/airflow.png" alt ="Airflow" title="Airflow"/></a>
 <a href="https://argo-cd.readthedocs.io/en/stable/"><img height="32" width="auto" src="./assets/images/argocd.png" alt ="ArgoCD" title="ArgoCD"/></a>
 
-#### Dev Tools
-
-<a href="https://code.visualstudio.com/"><img height="32" width="auto" src="./assets/images/vscode.png" alt ="Visual Studio Code" title="Visual Studio Code"/></a>
-<a href="https://openai.com/"><img height="32" width="auto" src="./assets/images/chatgpt.webp" alt ="ChatGPT" title="ChatGPT"/></a>
-
-#### Design Tools
-
-<a href="https://www.figma.com/"><img height="32" width="auto" src="./assets/images/figma.svg" alt ="Figma" title="Figma"/></a>
-<a href="https://www.webflow.com/"><img height="32" width="auto" src="./assets/images/webflow.png" alt ="Webflow" title="Webflow"/></a>
-
-#### Knowledge / BI / Visualization Tools
-
-<a href="https://www.notion.com/"><img height="32" width="auto" src="./assets/images/notion.png" alt ="Notion" title="Notion"/></a>
-<a href="https://www.elastic.co/fr/kibana/"><img height="32" width="auto" src="./assets/images/kibana.png" alt ="Kibana" title="Kibana"/></a>
-
-#### BDD
-
-<a href="https://www.mysql.com/"><img height="32" width="auto" src="./assets/images/mysql.png" alt ="MySQL" title="MySQL"/></a>
-<a href="https://postgresql.org/"><img height="32" width="auto" src="./assets/images/postgresql.png" alt ="PostgreSQL" title="PostgreSQL"/></a>
-<a href="https://www.elastic.co"><img height="32" width="auto" src="./assets/images/elasticsearch.png" alt ="Elasticsearch" title="Elasticsearch"/></a>
-<a href="https://redis.com/"><img height="32" width="auto" src="./assets/images/redis.svg" alt ="Redis" title="Redis"/></a>
-<a href="https://cassandra.apache.org"><img height="32" width="auto" src="./assets/images/cassandra.png" alt ="Cassandra" title="Cassandra"/></a>
-<a href="https://janusgraph.org/"><img height="32" width="auto" src="./assets/images/janusgraph.png" alt ="Janusgraph" title="Janusgraph"/></a>
-<a href="https://geoserver.org/"><img height="32" width="auto" src="./assets/images/geoserver.png" alt ="Geoserver" title="Geoserver"/></a>
 
 #### Cloud
 
@@ -97,11 +89,12 @@ Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
 <a href="https://fr.wikipedia.org/wiki/R_(langage)"><img height="32" width="auto" src="./assets/images/R.png" alt ="R" title="R"/></a>
 <a href="https://www.scala-lang.org/"><img height="32" width="auto" src="./assets/images/scala.png" alt ="Scala" title="Scala"/></a>
 <a href="https://www.java.com/fr/"><img height="32" width="auto" src="./assets/images/java.png" alt ="Java" title="Java"/></a>
-<a href="https://react.dev/"><img height="32" width="auto" src="./assets/images/react.png" alt ="React" title="React"/></a>
-<a href="https://nextjs.org/"><img height="32" width="auto" src="./assets/images/nextjs.png" alt ="NextJS" title="NextJS"/></a>
 
-#### Frameworks
 
+#### Frameworks & Dev Tools
+
+<a href="https://code.visualstudio.com/"><img height="32" width="auto" src="./assets/images/vscode.png" alt ="Visual Studio Code" title="Visual Studio Code"/></a>
+<a href="https://openai.com/"><img height="32" width="auto" src="./assets/images/chatgpt.webp" alt ="ChatGPT" title="ChatGPT"/></a>
 <a href="https://about.gitlab.com/topics/devops/"><img height="32" width="auto" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/></a>
 <a href="https://www.scrum.org/resources/what-is-scrum"><img height="32" width="auto" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/></a>
 

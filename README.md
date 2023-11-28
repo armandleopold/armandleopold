@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://www.softtechgroup.us/public/images/Software-Development-Banner.png)]([https://shaquillo.io](https://armandleopold.fr/)) -->
 <h1 align="center">Hi 👋, I'm Armand LEOPOLD</h1>
-<h3 align="center">Founder @ <a href="https://qalita.io">QALITA</a></h3>
+<h3 align="center">Founder & CEO @ <a href="https://qalita.io">QALITA</a></h3>
 
 ## :man: Whoami
 

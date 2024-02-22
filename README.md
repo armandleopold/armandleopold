@@ -1,6 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=armandleopold&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=armandleopold&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- [![MasterHead](https://www.softtechgroup.us/public/images/Software-Development-Banner.png)]([https://shaquillo.io](https://armandleopold.fr/)) -->
 <h1 align="center">Hi 👋, I'm Armand LEOPOLD</h1>

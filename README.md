@@ -12,7 +12,7 @@
 
 Actuellement je suis Fondateur d'une entreprise spécialisé dans l'assurance qualité des données.
 
-Je reste un Ingénieur et développeur passionné depuis plus de 12 ans.
+Je reste un Ingénieur et développeur passionné depuis plus de 15 ans.
 
 ### :point_right: Compétences
 

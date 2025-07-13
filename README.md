@@ -2,20 +2,20 @@
 
 <!-- [![MasterHead](https://www.softtechgroup.us/public/images/Software-Development-Banner.png)]([https://shaquillo.io](https://armandleopold.fr/)) -->
 <h1 align="center">Hi 👋, I'm Armand LEOPOLD</h1>
-<h3 align="center">Founder & CEO @ <a href="https://qalita.io">QALITA</a></h3>
+<h3 align="center">Engineer, Founder & CEO @<a href="https://qalita.io">QALITA</a></h3>
 
 ## :man: Whoami
 
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/armandleopold/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:armand.leopold@outlook.com)
 
-Actuellement je suis Fondateur d'une entreprise spécialisé dans l'assurance qualité des données.
+I'm currently the founder of a company specializing in data quality assurance.
 
-Je reste un Ingénieur et développeur passionné depuis plus de 15 ans.
+I've been a passionate engineer and developer for over 15 years.
 
-### :point_right: Compétences
+### :point_right: Hard Skills
 
-| Domaines | Technologies |
+| Domains | Technologies |
 | -------- | ------------ |
 | Web | HTML, CSS, PHP, SQL, FastAPI, React, NextJS |
 | Data Science | Python, R, SAS, Scikit-Learn, Pandas, Jupyter, Spark |
@@ -115,130 +115,145 @@ Je reste un Ingénieur et développeur passionné depuis plus de 15 ans.
 
 <details>
     <summary>
-        CV détaillé
+        Detailed Resume
     </summary>
 
-## EXPERIENCE PROFESSIONNELLE
+## PROFESSIONAL EXPERIENCE
 
-### Avril. 2023 – Aujourd'hui | Fondateur & CEO | QALITA
+### Apr. 2023 – Present | Founder & CEO | QALITA
 
-{CDI}
+{Permanent contract}
 
-- Création d'activité Entrepreneuriale
-- Prestation de services : gestion de la qualité des données, entrepôts de données de santé.
-- Développement d'une Plateforme de gestion de la qualité des données.
-- Accompagnement auprès des clients de leur processus de gestion de leurs entrepôts de données.
+* Founded an entrepreneurial venture.
+* Provided consulting services in data quality management and healthcare data warehouses.
+* Developed a data quality management platform.
+* Supported clients in managing their healthcare data warehouse processes.
 
-### Oct. 2022 – Avril. 2023 | Head of Data Factory | Institut Curie
+### Oct. 2022 – Apr. 2023 | Head of Data Factory | Institut Curie
 
-{CDI}
+{Permanent contract}
 
-- Animation d'une équipe de 5 Data Ingénieurs / Data Scientist pour piloter la réalisation des projets scientifiques et collaborations avec les industriels
-- Participer à la valorisation du patrimoine de donnée de l'institut curie
-- Participer à la définition et à la mise en place technique de l'EDS (Entrepôt de Données de Santé)
+* Led a team of 5 Data Engineers / Data Scientists to deliver scientific projects and industrial collaborations.
+* Contributed to the valorization of Institut Curie’s data assets.
+* Participated in defining and implementing the technical aspects of the Health Data Warehouse (EDS).
 
 ### Sept. 2020 – Sept. 2022 | DevOps Engineer | Institut Curie
 
-{CDI}
+{Permanent contract}
 
-- J'ai guidé et aidé à prendre des décisions stratégiques sur le développement logiciel ou l'architecture technique de la direction des données.
-- J'ai mis en place une politique de développement et d'intégration continue en accompagnant mes collègues dans l'utilisation d'outils de versionnage : Git / Gitlab et de pipelines de CI/CD.
-- J'ai mis en place une suite de monitoring. Gitlab-monitor, Statuspage, Kibana.
-- J'ai partagé la vision et les pratiques devops en menant des présentations internes et externes.
-- J'ai assuré la transition et le support sur les outils et pratiques en lien avec la direction des systèmes d'information.
+* Provided strategic guidance on software development and technical architecture within the Data Department.
+* Established development and continuous integration policies, supported colleagues in using version control tools (Git / GitLab) and CI/CD pipelines.
+* Implemented a monitoring suite: GitLab-monitor, Statuspage, Kibana.
+* Promoted DevOps vision and practices through internal and external presentations.
+* Ensured transition and support for tools and practices in coordination with the IT Department.
 
-### Mars. 2019 – Aout. 2020 | Data Engineer | Institut Curie
+### Mar. 2019 – Aug. 2020 | Data Engineer | Institut Curie
 
-{CDD}
+{Fixed-term contract}
 
-Knowledge in :
-CI/CD , DevOps, Cloud, Helm, Kubernetes, Gitlab, health data (Anatomopathology / MRI / PET-SCAN), Talend, Java, Python, Jupyter, Elasticsearch, Docker, Blockchain , Federated AI , Artificial Intelligence. Hyperledger, HTML/CSS/PHP, Maven, Nexus.
+Expertise in:
+CI/CD, DevOps, Cloud, Helm, Kubernetes, GitLab, healthcare data (Anatomopathology / MRI / PET-SCAN), Talend, Java, Python, Jupyter, Elasticsearch, Docker, Blockchain, Federated AI, Artificial Intelligence, Hyperledger, HTML/CSS/PHP, Maven, Nexus.
 
-- J'ai participé au projet #Healthchain dont ma mission était d'élaborer la base de donnée de curie pour le projet, en récupérant et agrégeant des données cliniques et d'imagerie.
-- J'ai échangé avec mes homologues du Centre Léon Bérard pour l'harmonisation sur les formats de données.
-- J'ai participé et donner mes retours sur l'intégration d'une plateforme de machine learning fédérée développé par #Owkin, à l'époque jeune startup de moins de 30 personnes.
-- J'ai participé aux sujets juridiques de valorisation des modèles de machine learning.
-- J'ai participé à la publication dans Nature Medicine d'un article sur une question scientifique utilisant la base de donnée développé.
-- J'ai développé un outil de mesure, d'analyse et de contrôle de la qualité des données sur plusieurs bases de donnée dont celle de mon projet.
+* Contributed to the #Healthchain project by designing a clinical and imaging data warehouse for Curie.
+* Collaborated with peers at Centre Léon Bérard to harmonize data formats.
+* Provided feedback on the integration of a federated machine learning platform developed by #Owkin (then a young startup with fewer than 30 employees).
+* Contributed to legal discussions on machine learning model valorization.
+* Co-authored a publication in *Nature Medicine* based on the developed database.
+* Developed a tool to measure, analyze, and control data quality across multiple datasets, including the project database.
 
 ### Oct. 2017 – Feb. 2019 | Data Scientist | THALES
 
-{CDI}
+{Permanent contract}
 
-A Paris - Vélizy :
+**In Paris – Vélizy:**
 
-- J'ai réalisé des travaux d'analyse de graph sociaux à partir de données en sources ouvertes pour les services de renseignements.
-- J'ai appliqué des algorithmes d'intelligence artificielles.
-- J'ai mené à bien des travaux de traitement du langage naturel.
-- J'ai participé à un grand projet de Plateforme de données pour l'armée française, spécifiquement sur la partie cas d'usages et Data Science.
+* Conducted social graph analysis using open-source data for intelligence services.
+* Applied artificial intelligence algorithms.
+* Performed natural language processing tasks.
+* Contributed to a major data platform project for the French army, focusing on use cases and Data Science components.
 
-A Toulouse - Labège :
+**In Toulouse – Labège:**
 
-- J'ai analysé des données de vols pour faciliter la maintenance des avions d'une flotte portugaise (A320 family).
-- J'ai fais du traitement et de l'ingestion de plans de vols avec élaboration de tableaux de bords interactif Kibana pour la DSNA DTI organisme du gouvernement pour la gestion efficace du trafic aérien en France.
+* Analyzed flight data to optimize aircraft maintenance for a Portuguese airline (A320 family).
+* Processed and ingested flight plans, created interactive dashboards using Kibana for DSNA DTI (French air traffic management authority).
 
 ### Sept. 2016 – Sept. 2017 | Data Analyst | Crédit Agricole
 
-{Contrat de Professionnalisation}
+{Work-study contract}
 
-- Réalisation de scores et d'indicateurs analytiques pour la gestion de la relation client (CRM).
-Data mining, machine learning.
-- J'ai eu l'occasion d'aller travailler au DataLab du Crédit Agricole, entité Nationale basée à Montrouge, pour collaborer avec des chercheurs en intelligence artificielle et en traitement de la donnée. A cette occasion, j'ai pu travailler sur une base de panel de consommateurs pour étudier des hypothèses en gestion de relation client, j'ai ensuite fais des retours à ma direction sur ces sujets lors de présentations formelles.
+* Created analytical scores and indicators for customer relationship management (CRM).
+* Worked on data mining and machine learning projects.
+* Participated in the Crédit Agricole DataLab in Montrouge, collaborating with AI and data researchers.
+* Analyzed a consumer panel database to test CRM hypotheses and formally presented findings to the management team.
 
-Logiciel utilisés : RStudio, Python (Jupyter Notebook), SAS Enterprise Guide & Miner, SAP Business Object.
-Fortes compétences en langages : R, Python, SQL, SAS.
+**Tools used:** RStudio, Python (Jupyter Notebook), SAS Enterprise Guide & Miner, SAP BusinessObjects
 
-### Jun. 2016 – Sept. 2016 | Short Term Researcher | Illinois Institute of Technology
+**Strong skills in:** R, Python, SQL, SAS
 
-{Stage de Recherche en Université}
+### Jun. 2016 – Sept. 2016 | Short-Term Researcher | Illinois Institute of Technology
 
-BigDataX Laboratory / Computer Science department.
-Research subject : Wearable Computing BIG-DATA Architecture.
-Made a Research on developping a Big-Data System Architecture for carrying big amount of wearable devices data in stream and storage.
-Using Amazon Web Services (AWS) ,Scala, Apache Spark, Apache Cassandra and Android JDK.
+{University Research Internship}
 
-### Jun. 2015 – Jun. 2016 | President | Junior Etudes ESIGELEC
+BigDataX Laboratory – Computer Science Department
 
-{Mandat Associatif}
+**Research topic:** Wearable Computing Big Data Architecture
 
-Restructuration of my school's Junior Enterprise, fiscal rebalancing, archiving and redesigning activity areas, process remodelling and reorganisation.
-Managing a 6 people team.
-Application to the Junior Entreprises mouvement.
-Ability in Team Managment, taxation, legal rules and status, accounting, Project Managment.
+Researched and developed a Big Data architecture to handle high-volume wearable device data for streaming and storage.
 
-### Nov. 2014 – May. 2016 | Full Stack Dev | Freelance
+**Technologies used:** AWS, Scala, Apache Spark, Apache Cassandra, Android JDK
 
-{Mandat Associatif}
+### Jun. 2015 – Jun. 2016 | President | Junior Enterprise ESIGELEC
 
-Supervisation and developpment of my school's student dedicated website.
-Migration to a new responsive and more modern version.
-Establishing a communication plan for increasing frequentation and traffic on the site. Improving communication between student inner school organisations
-Strong Knowledge in HTML(5) , CSS(3), PHP(5.3 to 7), MySQL, JQuery, Bootstrap, Foundation, Web Design & Development, Analytics.
-In 2 years, 3/4 of students subscribed to the website and increasing traffic by thousands of percents.
+{Student Organization Mandate}
 
-## FORMATION
+Restructured the school’s Junior Enterprise: financial recovery, archiving, activity redesign, process reengineering, and team reorganization.
+Managed a team of 6.
+Applied to the National Junior Enterprise Network.
+Developed skills in team management, taxation, legal compliance, accounting, and project management.
 
-### 2014 - 2017 – Diplôme d'Ingénieur – ESIGELEC - Rouen
+### Nov. 2014 – May. 2016 | Full Stack Developer | Freelance
 
-Ecole d’ingénieur généraliste : Dominante BDTN (Big-Data et Transformation Numérique)
-Top classement en informatique : (8/304)
-Activités et associations : Club de Musique, Junior Etudes, Club de robotique, Club d'informatique, Club de Théatre.
+{Student Organization Mandate}
 
-### 2012 - 2014 : Prépa PCSI/MPSI – ESIGELEC - Rouen
+Supervised and developed the school’s student-dedicated website.
+Led the migration to a responsive, modern version.
+Established a communication plan to boost engagement and traffic.
+Improved inter-organization communication within the student body.
 
-Prépa intégré selection concours Advance.
-Major de promotion en Informatique : (1/120)
+**Technical stack:** HTML5, CSS3, PHP (5.3–7), MySQL, jQuery, Bootstrap, Foundation
 
-### 2009 - 2012 : BAC STI Electrotechnique – Lycée Marie Curie à Nogent sur Oise
+**Results:** 75% student adoption and traffic increase by several thousand percent.
 
-Niveau : Mention Très Bien (With Honors)
-Activités et associations : Délégué en classe de Terminal.
+---
 
-### LANGUES
+## EDUCATION
 
-🇫🇷 🇬🇧
+### 2014 – 2017 | Engineering Degree – ESIGELEC, Rouen, France
 
-### LOISIRS
+Generalist engineering school – Major in Big Data & Digital Transformation (BDTN)
+Top-ranking in Computer Science: 8th / 304
+Activities: Music Club, Junior Enterprise, Robotics Club, Computer Science Club, Theater Club
 
-Piano, Running, Cinéma, Voyages, Science, Histoire, Géopolitique
+### 2012 – 2014 | Preparatory Classes PCSI/MPSI – ESIGELEC, Rouen
+
+Integrated preparatory program through the Advance competitive exam.
+Top of class in Computer Science: 1st / 120
+
+### 2009 – 2012 | STI Baccalauréat in Electrotechnics – Lycée Marie Curie, Nogent-sur-Oise
+
+Graduated with Honors (Mention Très Bien)
+Class representative in final year
+
+---
+
+## LANGUAGES
+
+🇫🇷 French – Native
+🇬🇧 English – Professional proficiency
+
+---
+
+## INTERESTS
+
+Piano, Running, Cinema, Travel, Science, History, Geopolitics
 </details>

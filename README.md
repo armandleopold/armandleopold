@@ -17,4 +17,4 @@ Data & AI architect. Founder of [QALITA](https://qalita.io). Builder of side pro
 - [Previly](https://previly.com) — Personal, business and wealth finances in one place, with an AI assistant you can talk to.
 - [JobChef](https://jobchef.fr) — Run your job search like a chef: AI scoring of job offers and tailored applications.
 - [Toplieu](https://toplieu.fr) — Describe your ideal place to live and get every area of France scored out of 100.
-- [Maison de Juncarot](https://maisondejuncarot.com) — Private website for the family house: stay planning, photo albums, family tree and shared documents.
+- [Maison de Juncarot](https://maisondejuncarot.fr) — Private website for the family house: stay planning, photo albums, family tree and shared documents.
